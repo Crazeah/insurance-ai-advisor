@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insurance-ai-advisor/static/css/main.6e4d66cf.css",
+    "main.js": "/insurance-ai-advisor/static/js/main.f49c0e22.js",
+    "static/js/453.e71b5d92.chunk.js": "/insurance-ai-advisor/static/js/453.e71b5d92.chunk.js",
+    "index.html": "/insurance-ai-advisor/index.html",
+    "main.6e4d66cf.css.map": "/insurance-ai-advisor/static/css/main.6e4d66cf.css.map",
+    "main.f49c0e22.js.map": "/insurance-ai-advisor/static/js/main.f49c0e22.js.map",
+    "453.e71b5d92.chunk.js.map": "/insurance-ai-advisor/static/js/453.e71b5d92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4d66cf.css",
+    "static/js/main.f49c0e22.js"
+  ]
+}
