@@ -1,0 +1,7600 @@
+[
+  {
+    "id": "PCA_ARLPLN10",
+    "name": "福安滿利終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLN10",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽福安滿利終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 189052,
+        "age_30": 270075,
+        "age_40": 351098,
+        "age_50": 486136,
+        "age_60": 675189
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 70
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3120,
+      "avg_age": 39.8,
+      "avg_premium": 270075.7
+    }
+  },
+  {
+    "id": "PCA_ARLPLU44",
+    "name": "鑫旺達外幣終身壽險 ( 定額給付型 )",
+    "code": "ARLPLU44",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫旺達外幣終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2182,
+        "age_30": 3118,
+        "age_40": 4053,
+        "age_50": 5612,
+        "age_60": 7795
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 72
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 3420,
+      "avg_age": 29.3,
+      "avg_premium": 3118.07
+    }
+  },
+  {
+    "id": "PCA_BRLPLN8",
+    "name": "金世代終身壽險 ( 定額給付型 )",
+    "code": "BRLPLN8",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽金世代終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 60455,
+        "age_30": 86364,
+        "age_40": 112274,
+        "age_50": 155456,
+        "age_60": 215912
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 74
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 806,
+      "avg_age": 35.0,
+      "avg_premium": 86364.97
+    }
+  },
+  {
+    "id": "PCA_ACLPEU15",
+    "name": "美旺雙收外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU15",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美旺雙收外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 19900,
+        "age_30": 28429,
+        "age_40": 36958,
+        "age_50": 51173,
+        "age_60": 71074
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2008,
+      "avg_age": 50.3,
+      "avg_premium": 28429.74
+    }
+  },
+  {
+    "id": "PCA_ACLPEU19",
+    "name": "六勝利外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU19",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽六勝利外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 6200,
+        "age_30": 8857,
+        "age_40": 11515,
+        "age_50": 15943,
+        "age_60": 22144
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 847,
+      "avg_age": 37.8,
+      "avg_premium": 8857.77
+    }
+  },
+  {
+    "id": "PCA_ARLPLU37",
+    "name": "鑫世代外幣終身壽險 ( 定額給付型 )",
+    "code": "ARLPLU37",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫世代外幣終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 4803,
+        "age_30": 6862,
+        "age_40": 8920,
+        "age_50": 12352,
+        "age_60": 17155
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 3097,
+      "avg_age": 36.9,
+      "avg_premium": 6862.24
+    }
+  },
+  {
+    "id": "PCA_ARLPLU23",
+    "name": "金彩人生外幣終身壽險 ( 定額給付型 )",
+    "code": "ARLPLU23",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽金彩人生外幣終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2548,
+        "age_30": 3640,
+        "age_40": 4733,
+        "age_50": 6553,
+        "age_60": 9101
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 2318,
+      "avg_age": 29.8,
+      "avg_premium": 3640.78
+    }
+  },
+  {
+    "id": "PCA_ACLPLN3",
+    "name": "享利一生終身壽險 ( 定期給付型 )",
+    "code": "ACLPLN3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽享利一生終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 85283,
+        "age_30": 121833,
+        "age_40": 158383,
+        "age_50": 219300,
+        "age_60": 304583
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 16,
+      "max": 81
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 4459,
+      "avg_age": 57.6,
+      "avg_premium": 121833.45
+    }
+  },
+  {
+    "id": "PCA_ARIPLU6",
+    "name": "超紅運世家外幣增額終身壽險 ( 定期給付型 )",
+    "code": "ARIPLU6",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽超紅運世家外幣增額終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 12931,
+        "age_30": 18473,
+        "age_40": 24016,
+        "age_50": 33253,
+        "age_60": 46184
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 3130,
+      "avg_age": 51.9,
+      "avg_premium": 18473.94
+    }
+  },
+  {
+    "id": "PCA_ACLPEN26",
+    "name": "享利雙收終身保險 (113)( 定期給付型 )",
+    "code": "ACLPEN26",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽享利雙收終身保險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 672816,
+        "age_30": 961166,
+        "age_40": 1249517,
+        "age_50": 1730100,
+        "age_60": 2402917
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 70
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 775,
+      "avg_age": 48.1,
+      "avg_premium": 961166.99
+    }
+  },
+  {
+    "id": "PCA_ARLPLU42",
+    "name": "美滿相傳外幣終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLU42",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美滿相傳外幣終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 8960,
+        "age_30": 12800,
+        "age_40": 16640,
+        "age_50": 23040,
+        "age_60": 32001
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 5369,
+      "avg_age": 48.5,
+      "avg_premium": 12800.4
+    }
+  },
+  {
+    "id": "PCA_ACLPEU20",
+    "name": "一路旺外幣終身保險 (113)( 定期給付型 )",
+    "code": "ACLPEU20",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽一路旺外幣終身保險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2649,
+        "age_30": 3785,
+        "age_40": 4921,
+        "age_50": 6814,
+        "age_60": 9463
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 65
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "年輕族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 915,
+      "avg_age": 29.8,
+      "avg_premium": 3785.58
+    }
+  },
+  {
+    "id": "PCA_ARLPLU33",
+    "name": "美康滿利外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU33",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美康滿利外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5432,
+        "age_30": 7760,
+        "age_40": 10088,
+        "age_50": 13969,
+        "age_60": 19401
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 3265,
+      "avg_age": 37.7,
+      "avg_premium": 7760.58
+    }
+  },
+  {
+    "id": "PCA_ARLPLU30",
+    "name": "美滿傳家外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU30",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美滿傳家外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 9074,
+        "age_30": 12964,
+        "age_40": 16853,
+        "age_50": 23335,
+        "age_60": 32410
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 4751,
+      "avg_age": 44.9,
+      "avg_premium": 12964.27
+    }
+  },
+  {
+    "id": "PCA_ACLPEN36",
+    "name": "新樂利雙收終身保險 ( 定期給付型 )",
+    "code": "ACLPEN36",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新樂利雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 335023,
+        "age_30": 478605,
+        "age_40": 622186,
+        "age_50": 861489,
+        "age_60": 1196513
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 70
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1582,
+      "avg_age": 44.4,
+      "avg_premium": 478605.24
+    }
+  },
+  {
+    "id": "PCA_ARLPLU43",
+    "name": "美耀相傳外幣終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLU43",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美耀相傳外幣終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 9141,
+        "age_30": 13058,
+        "age_40": 16976,
+        "age_50": 23505,
+        "age_60": 32646
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 421,
+      "avg_age": 46.6,
+      "avg_premium": 13058.72
+    }
+  },
+  {
+    "id": "PCA_ACCRTB1",
+    "name": "誠心防癌 2.0 健康保險",
+    "code": "ACCRTB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽誠心防癌 2.0 健康保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 23276,
+        "age_30": 33252,
+        "age_40": 43228,
+        "age_50": 59855,
+        "age_60": 83132
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 19,
+      "max": 62
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2756,
+      "avg_age": 43.3,
+      "avg_premium": 33252.83
+    }
+  },
+  {
+    "id": "PCA_DIPA",
+    "name": "人身意外傷害保險 (111)",
+    "code": "DIPA",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽人身意外傷害保險 (111)是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 877,
+        "age_30": 1253,
+        "age_40": 1629,
+        "age_50": 2256,
+        "age_60": 3133
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1806,
+      "avg_age": 40.9,
+      "avg_premium": 1253.59
+    }
+  },
+  {
+    "id": "PCA_ARLPLU47",
+    "name": "新美利傳富外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU47",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新美利傳富外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 28261,
+        "age_30": 40373,
+        "age_40": 52486,
+        "age_50": 72673,
+        "age_60": 100934
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 755,
+      "avg_age": 60.6,
+      "avg_premium": 40373.91
+    }
+  },
+  {
+    "id": "PCA_ACLPEN27",
+    "name": "樂利雙收終身保險 (113)( 定期給付型 )",
+    "code": "ACLPEN27",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽樂利雙收終身保險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 350415,
+        "age_30": 500593,
+        "age_40": 650771,
+        "age_50": 901068,
+        "age_60": 1251483
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 70
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 698,
+      "avg_age": 45.8,
+      "avg_premium": 500593.36
+    }
+  },
+  {
+    "id": "PCA_ACLPEN32",
+    "name": "金會旺終身保險 (113)( 定期給付型 )",
+    "code": "ACLPEN32",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽金會旺終身保險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 94243,
+        "age_30": 134633,
+        "age_40": 175023,
+        "age_50": 242339,
+        "age_60": 336583
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 70
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 384,
+      "avg_age": 38.7,
+      "avg_premium": 134633.27
+    }
+  },
+  {
+    "id": "PCA_ARLPEU1",
+    "name": "美享樂退外幣終身保險 ( 定期給付型 )",
+    "code": "ARLPEU1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美享樂退外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1616,
+        "age_30": 2308,
+        "age_40": 3001,
+        "age_50": 4155,
+        "age_60": 5771
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 18,
+      "max": 49
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 7,
+      "avg_age": 39.4,
+      "avg_premium": 2308.71
+    }
+  },
+  {
+    "id": "PCA_ARLPLU51",
+    "name": "富享紅運外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU51",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽富享紅運外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 119077,
+        "age_30": 170110,
+        "age_40": 221143,
+        "age_50": 306198,
+        "age_60": 425275
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 66,
+      "max": 77
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 10,
+      "avg_age": 71.1,
+      "avg_premium": 170110.3
+    }
+  },
+  {
+    "id": "PCA_ARLPLU49",
+    "name": "美旺一生外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU49",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美旺一生外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 4383,
+        "age_30": 6261,
+        "age_40": 8139,
+        "age_50": 11270,
+        "age_60": 15653
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 43,
+      "max": 78
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 25,
+      "avg_age": 64.8,
+      "avg_premium": 6261.45
+    }
+  },
+  {
+    "id": "PCA_ARLPLN13",
+    "name": "樂享傳家終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLN13",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽樂享傳家終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 411806,
+        "age_30": 588294,
+        "age_40": 764782,
+        "age_50": 1058930,
+        "age_60": 1470736
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 690,
+      "avg_age": 51.0,
+      "avg_premium": 588294.55
+    }
+  },
+  {
+    "id": "PCA_ACLPEN34",
+    "name": "鑫利發終身保險 (113)( 定期給付型 )",
+    "code": "ACLPEN34",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫利發終身保險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 730822,
+        "age_30": 1044032,
+        "age_40": 1357241,
+        "age_50": 1879258,
+        "age_60": 2610080
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 75
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 611,
+      "avg_age": 54.5,
+      "avg_premium": 1044032.3
+    }
+  },
+  {
+    "id": "PCA_ARLPLU46",
+    "name": "超美利外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU46",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽超美利外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 15631,
+        "age_30": 22331,
+        "age_40": 29030,
+        "age_50": 40196,
+        "age_60": 55828
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 693,
+      "avg_age": 49.2,
+      "avg_premium": 22331.35
+    }
+  },
+  {
+    "id": "PCA_ACLPEU18",
+    "name": "三多利外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU18",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽三多利外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 11382,
+        "age_30": 16261,
+        "age_40": 21139,
+        "age_50": 29270,
+        "age_60": 40652
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 77
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 206,
+      "avg_age": 45.1,
+      "avg_premium": 16261.12
+    }
+  },
+  {
+    "id": "PCA_ARLPLU45",
+    "name": "美利傳承外幣終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLU45",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利傳承外幣終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 43017,
+        "age_30": 61454,
+        "age_40": 79890,
+        "age_50": 110617,
+        "age_60": 153635
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 9,
+      "max": 75
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 478,
+      "avg_age": 61.2,
+      "avg_premium": 61454.18
+    }
+  },
+  {
+    "id": "PCA_BNLTLN5",
+    "name": "一年定期壽險",
+    "code": "BNLTLN5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽一年定期壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1840,
+        "age_30": 2629,
+        "age_40": 3417,
+        "age_50": 4732,
+        "age_60": 6572
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 15,
+      "max": 64
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 966,
+      "avg_age": 37.1,
+      "avg_premium": 2629.16
+    }
+  },
+  {
+    "id": "PCA_ARLPLU41",
+    "name": "鑫美相傳外幣終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLU41",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫美相傳外幣終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 14903,
+        "age_30": 21291,
+        "age_40": 27678,
+        "age_50": 38323,
+        "age_60": 53227
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 214,
+      "avg_age": 52.6,
+      "avg_premium": 21291.03
+    }
+  },
+  {
+    "id": "PCA_ASGNLB3",
+    "name": "樂齡安康手術醫療終身健康保險",
+    "code": "ASGNLB3",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽樂齡安康手術醫療終身健康保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 19049,
+        "age_30": 27213,
+        "age_40": 35376,
+        "age_50": 48983,
+        "age_60": 68032
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 66
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2845,
+      "avg_age": 51.9,
+      "avg_premium": 27213.02
+    }
+  },
+  {
+    "id": "PCA_ARDPLN7",
+    "name": "超紅運相傳終身壽險 ( 定期給付型 )",
+    "code": "ARDPLN7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽超紅運相傳終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 679939,
+        "age_30": 971341,
+        "age_40": 1262744,
+        "age_50": 1748415,
+        "age_60": 2428354
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 8,
+      "max": 70
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 119,
+      "avg_age": 53.6,
+      "avg_premium": 971341.85
+    }
+  },
+  {
+    "id": "PCA_ERVLBF8",
+    "name": "三五雙享外幣變額壽險",
+    "code": "ERVLBF8",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽三五雙享外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 3500,
+        "age_30": 5000,
+        "age_40": 6500,
+        "age_50": 9000,
+        "age_60": 12500
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 37,
+      "max": 75
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3,
+      "avg_age": 51.0,
+      "avg_premium": 0.0
+    }
+  },
+  {
+    "id": "PCA_ARLPLU29",
+    "name": "鑫美傳家外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU29",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫美傳家外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 20070,
+        "age_30": 28672,
+        "age_40": 37273,
+        "age_50": 51609,
+        "age_60": 71680
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 377,
+      "avg_age": 50.9,
+      "avg_premium": 28672.15
+    }
+  },
+  {
+    "id": "PCA_ERVLB1",
+    "name": "新三五寶島變額壽險 (112)",
+    "code": "ERVLB1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新三五寶島變額壽險 (112)是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 208333,
+        "age_30": 297619,
+        "age_40": 386904,
+        "age_50": 535714,
+        "age_60": 744047
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 26,
+      "max": 67
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "預算有限",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 21,
+      "avg_age": 57.0,
+      "avg_premium": 297619.05
+    }
+  },
+  {
+    "id": "PCA_AHINTB1",
+    "name": "醫吉御守一年期住院醫療健康保險",
+    "code": "AHINTB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽醫吉御守一年期住院醫療健康保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1664,
+        "age_30": 2377,
+        "age_40": 3091,
+        "age_50": 4280,
+        "age_60": 5944
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 999
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 9082,
+      "avg_age": 26.5,
+      "avg_premium": 2377.99
+    }
+  },
+  {
+    "id": "PCA_ACLPEN30",
+    "name": "超紅運來終身保險 ( 定期給付型 )",
+    "code": "ACLPEN30",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽超紅運來終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 692682,
+        "age_30": 989546,
+        "age_40": 1286410,
+        "age_50": 1781183,
+        "age_60": 2473865
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 7,
+      "max": 75
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "中年族群"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 93,
+      "avg_age": 52.3,
+      "avg_premium": 989546.17
+    }
+  },
+  {
+    "id": "PCA_CRVA1",
+    "name": "樂活寶島變額年金保險 (112)",
+    "code": "CRVA1",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活寶島變額年金保險 (112)是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 946859,
+        "age_30": 1352655,
+        "age_40": 1758452,
+        "age_50": 2434780,
+        "age_60": 3381639
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 74
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 497,
+      "avg_age": 56.3,
+      "avg_premium": 1352655.94
+    }
+  },
+  {
+    "id": "PCA_ANLTLN13",
+    "name": "貸貸平安定期壽險 ( 平準型 )",
+    "code": "ANLTLN13",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽貸貸平安定期壽險 ( 平準型 )是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5033,
+        "age_30": 7190,
+        "age_40": 9347,
+        "age_50": 12942,
+        "age_60": 17975
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 22,
+      "max": 61
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 271,
+      "avg_age": 37.9,
+      "avg_premium": 7190.23
+    }
+  },
+  {
+    "id": "PCA_CRVLBF8",
+    "name": "三五美金外幣變額壽險",
+    "code": "CRVLBF8",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽三五美金外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 21457,
+        "age_30": 30653,
+        "age_40": 39849,
+        "age_50": 55176,
+        "age_60": 76634
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 18,
+      "max": 78
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1345,
+      "avg_age": 61.0,
+      "avg_premium": 30653.61
+    }
+  },
+  {
+    "id": "PCA_ARDPLU11",
+    "name": "美旺傳家外幣終身壽險 ( 定期給付型 )",
+    "code": "ARDPLU11",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美旺傳家外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 9613,
+        "age_30": 13733,
+        "age_40": 17853,
+        "age_50": 24720,
+        "age_60": 34333
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 19,
+      "max": 70
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 170,
+      "avg_age": 52.2,
+      "avg_premium": 13733.59
+    }
+  },
+  {
+    "id": "PCA_ARLPLN12",
+    "name": "臻愛相傳終身壽險 ( 定期給付型 )",
+    "code": "ARLPLN12",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽臻愛相傳終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 253404,
+        "age_30": 362006,
+        "age_40": 470608,
+        "age_50": 651611,
+        "age_60": 905015
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 75
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 324,
+      "avg_age": 56.8,
+      "avg_premium": 362006.18
+    }
+  },
+  {
+    "id": "PCA_ACLPEN33",
+    "name": "吉利雙收終身保險  ( 定期給付型  )",
+    "code": "ACLPEN33",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽吉利雙收終身保險  ( 定期給付型  )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 228372,
+        "age_30": 326246,
+        "age_40": 424119,
+        "age_50": 587242,
+        "age_60": 815615
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 7,
+      "max": 72
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 17,
+      "avg_age": 44.9,
+      "avg_premium": 326246.0
+    }
+  },
+  {
+    "id": "PCA_ARDPLU10",
+    "name": "紅旺世代外幣終身壽險 ( 定期給付型 )",
+    "code": "ARDPLU10",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽紅旺世代外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 14090,
+        "age_30": 20129,
+        "age_40": 26168,
+        "age_50": 36233,
+        "age_60": 50324
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 76
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 593,
+      "avg_age": 57.0,
+      "avg_premium": 20129.98
+    }
+  },
+  {
+    "id": "PCA_ANDTLN9",
+    "name": "貸貸平安定期壽險 ( 遞減型 )",
+    "code": "ANDTLN9",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽貸貸平安定期壽險 ( 遞減型 )是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5350,
+        "age_30": 7643,
+        "age_40": 9936,
+        "age_50": 13758,
+        "age_60": 19109
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 25,
+      "max": 62
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 555,
+      "avg_age": 42.3,
+      "avg_premium": 7643.65
+    }
+  },
+  {
+    "id": "PCA_AHIRLB1",
+    "name": "倍感安心終身醫療健康保險",
+    "code": "AHIRLB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽倍感安心終身醫療健康保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 15999,
+        "age_30": 22856,
+        "age_40": 29713,
+        "age_50": 41142,
+        "age_60": 57141
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 62
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3445,
+      "avg_age": 38.7,
+      "avg_premium": 22856.78
+    }
+  },
+  {
+    "id": "PCA_ADMRTB1",
+    "name": "鑫幸福定期保險",
+    "code": "ADMRTB1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽鑫幸福定期保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 17898,
+        "age_30": 25569,
+        "age_40": 33240,
+        "age_50": 46025,
+        "age_60": 63924
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 21,
+      "max": 58
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3776,
+      "avg_age": 44.0,
+      "avg_premium": 25569.96
+    }
+  },
+  {
+    "id": "PCA_ACLPEN29",
+    "name": "鑫享雙收終身保險 (113)( 定期給付型 )",
+    "code": "ACLPEN29",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫享雙收終身保險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 728169,
+        "age_30": 1040242,
+        "age_40": 1352315,
+        "age_50": 1872436,
+        "age_60": 2600606
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 70
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 424,
+      "avg_age": 47.5,
+      "avg_premium": 1040242.57
+    }
+  },
+  {
+    "id": "PCA_DFVLB1",
+    "name": "誠億滿滿變額壽險",
+    "code": "DFVLB1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽誠億滿滿變額壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 17500,
+        "age_30": 25000,
+        "age_40": 32500,
+        "age_50": 45000,
+        "age_60": 62500
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 50,
+      "max": 65
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2,
+      "avg_age": 57.5,
+      "avg_premium": 25000.0
+    }
+  },
+  {
+    "id": "PCA_ARLPLN11",
+    "name": "鑫滿傳家終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLN11",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫滿傳家終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 685008,
+        "age_30": 978583,
+        "age_40": 1272159,
+        "age_50": 1761451,
+        "age_60": 2446459
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 7,
+      "max": 70
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 161,
+      "avg_age": 49.8,
+      "avg_premium": 978583.98
+    }
+  },
+  {
+    "id": "PCA_ARLPLR1",
+    "name": "民富傳家人民幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLR1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽民富傳家人民幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 66728,
+        "age_30": 95326,
+        "age_40": 123924,
+        "age_50": 171587,
+        "age_60": 238316
+      },
+      "currency": "CNY"
+    },
+    "age_range": {
+      "min": 27,
+      "max": 76
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 87,
+      "avg_age": 61.2,
+      "avg_premium": 95326.51
+    }
+  },
+  {
+    "id": "PCA_ARLPLN14",
+    "name": "富承相傳終身壽險 ( 定期給付型 )",
+    "code": "ARLPLN14",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽富承相傳終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 507688,
+        "age_30": 725268,
+        "age_40": 942849,
+        "age_50": 1305484,
+        "age_60": 1813172
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 76
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 31,
+      "avg_age": 53.7,
+      "avg_premium": 725268.97
+    }
+  },
+  {
+    "id": "PCA_ACLPEU21",
+    "name": "美福雙收外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU21",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美福雙收外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 10845,
+        "age_30": 15493,
+        "age_40": 20140,
+        "age_50": 27887,
+        "age_60": 38732
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 69
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 75,
+      "avg_age": 46.4,
+      "avg_premium": 15493.05
+    }
+  },
+  {
+    "id": "PCA_APANTB15",
+    "name": "乘車守護意外傷害保險",
+    "code": "APANTB15",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽乘車守護意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 95,
+        "age_30": 136,
+        "age_40": 176,
+        "age_50": 244,
+        "age_60": 340
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 21,
+      "max": 64
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 123,
+      "avg_age": 41.5,
+      "avg_premium": 136.02
+    }
+  },
+  {
+    "id": "PCA_ACLPEN28",
+    "name": "鴻利雙收終身保險 ( 定期給付型 )",
+    "code": "ACLPEN28",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鴻利雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 508832,
+        "age_30": 726903,
+        "age_40": 944974,
+        "age_50": 1308426,
+        "age_60": 1817259
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 7,
+      "max": 76
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 83,
+      "avg_age": 61.5,
+      "avg_premium": 726903.84
+    }
+  },
+  {
+    "id": "PCA_BPARTB4",
+    "name": "誠鑫滿意保險",
+    "code": "BPARTB4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽誠鑫滿意保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 17005,
+        "age_30": 24293,
+        "age_40": 31581,
+        "age_50": 43728,
+        "age_60": 60733
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 22,
+      "max": 57
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 438,
+      "avg_age": 41.8,
+      "avg_premium": 24293.57
+    }
+  },
+  {
+    "id": "PCA_ARDPLN6",
+    "name": "富貴世代終身壽險 ( 定期給付型 )",
+    "code": "ARDPLN6",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽富貴世代終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 521009,
+        "age_30": 744299,
+        "age_40": 967588,
+        "age_50": 1339738,
+        "age_60": 1860747
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 22,
+      "max": 75
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 111,
+      "avg_age": 62.1,
+      "avg_premium": 744299.14
+    }
+  },
+  {
+    "id": "PCA_APANTB9",
+    "name": " e 騎幸福意外傷害保險",
+    "code": "APANTB9",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽 e 騎幸福意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 175,
+        "age_30": 251,
+        "age_40": 326,
+        "age_50": 452,
+        "age_60": 627
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 21,
+      "max": 66
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 148,
+      "avg_age": 39.7,
+      "avg_premium": 251.19
+    }
+  },
+  {
+    "id": "PCA_CPARTB3",
+    "name": "金滿意保險",
+    "code": "CPARTB3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽金滿意保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 15020,
+        "age_30": 21457,
+        "age_40": 27894,
+        "age_50": 38622,
+        "age_60": 53642
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 57
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 543,
+      "avg_age": 44.0,
+      "avg_premium": 21457.15
+    }
+  },
+  {
+    "id": "PCA_APANTB13",
+    "name": "新嗶嗶守護意外傷害保險",
+    "code": "APANTB13",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽新嗶嗶守護意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 91,
+        "age_30": 131,
+        "age_40": 170,
+        "age_50": 235,
+        "age_60": 327
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 58
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 73,
+      "avg_age": 37.7,
+      "avg_premium": 131.04
+    }
+  },
+  {
+    "id": "PCA_AHINTB3",
+    "name": " e 保天天一年定期住院日額醫療健康保險",
+    "code": "AHINTB3",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽 e 保天天一年定期住院日額醫療健康保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1744,
+        "age_30": 2492,
+        "age_40": 3240,
+        "age_50": 4486,
+        "age_60": 6231
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 52
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 25,
+      "avg_age": 38.5,
+      "avg_premium": 2492.76
+    }
+  },
+  {
+    "id": "PCA_ACLPEN18",
+    "name": "樂盈雙收終身保險 ( 定期給付型 )",
+    "code": "ACLPEN18",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽樂盈雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 355847,
+        "age_30": 508353,
+        "age_40": 660859,
+        "age_50": 915036,
+        "age_60": 1270884
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 72
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 7816,
+      "avg_age": 45.6,
+      "avg_premium": 508353.78
+    }
+  },
+  {
+    "id": "PCA_CRVAF2",
+    "name": "樂活雙享外幣變額年金保險",
+    "code": "CRVAF2",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活雙享外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 40353,
+        "age_30": 57647,
+        "age_40": 74941,
+        "age_50": 103765,
+        "age_60": 144118
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 11,
+      "max": 74
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 145,
+      "avg_age": 55.8,
+      "avg_premium": 57647.59
+    }
+  },
+  {
+    "id": "PCA_ARLPLN8",
+    "name": "金世代終身壽險 ( 定額給付型 )",
+    "code": "ARLPLN8",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽金世代終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 97951,
+        "age_30": 139930,
+        "age_40": 181909,
+        "age_50": 251874,
+        "age_60": 349826
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 74
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "年輕族群"
+    ],
+    "features": [
+      "終身保障",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 692,
+      "avg_age": 34.5,
+      "avg_premium": 139930.41
+    }
+  },
+  {
+    "id": "PCA_BNLTLN9",
+    "name": " e 起到老定期壽險",
+    "code": "BNLTLN9",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽 e 起到老定期壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2466,
+        "age_30": 3522,
+        "age_40": 4579,
+        "age_50": 6341,
+        "age_60": 8807
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 26,
+      "max": 57
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 51,
+      "avg_age": 44.7,
+      "avg_premium": 3522.9
+    }
+  },
+  {
+    "id": "PCA_BNLTLN4",
+    "name": " e 無憂定期壽險",
+    "code": "BNLTLN4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽 e 無憂定期壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2217,
+        "age_30": 3167,
+        "age_40": 4117,
+        "age_50": 5701,
+        "age_60": 7918
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 23,
+      "max": 56
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 172,
+      "avg_age": 40.8,
+      "avg_premium": 3167.5
+    }
+  },
+  {
+    "id": "PCA_ALTRTB1",
+    "name": " e 把照一年期長期照顧健康保險",
+    "code": "ALTRTB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽 e 把照一年期長期照顧健康保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1358,
+        "age_30": 1941,
+        "age_40": 2523,
+        "age_50": 3493,
+        "age_60": 4852
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 57
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 671,
+      "avg_age": 43.5,
+      "avg_premium": 1941.03
+    }
+  },
+  {
+    "id": "PCA_DRVLB1",
+    "name": "新三五寶島變額壽險 (112)",
+    "code": "DRVLB1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新三五寶島變額壽險 (112)是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 566313,
+        "age_30": 809019,
+        "age_40": 1051725,
+        "age_50": 1456235,
+        "age_60": 2022549
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 24,
+      "max": 76
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 306,
+      "avg_age": 57.8,
+      "avg_premium": 809019.61
+    }
+  },
+  {
+    "id": "PCA_APANTB4",
+    "name": "平安護守意外傷害保險",
+    "code": "APANTB4",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽平安護守意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 419,
+        "age_30": 599,
+        "age_40": 779,
+        "age_50": 1079,
+        "age_60": 1499
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 21,
+      "max": 65
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 111,
+      "avg_age": 43.1,
+      "avg_premium": 599.95
+    }
+  },
+  {
+    "id": "PCA_ISUB",
+    "name": "新智富人生變額壽險",
+    "code": "ISUB",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新智富人生變額壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 103676,
+        "age_30": 148109,
+        "age_40": 192541,
+        "age_50": 266596,
+        "age_60": 370272
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 19,
+      "max": 81
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "預算有限",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 55,
+      "avg_age": 62.2,
+      "avg_premium": 148109.09
+    }
+  },
+  {
+    "id": "PCA_ARLPLU48",
+    "name": "新美利 29 外幣終身壽險 (113)( 定期給付型 )",
+    "code": "ARLPLU48",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新美利 29 外幣終身壽險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5185,
+        "age_30": 7407,
+        "age_40": 9629,
+        "age_50": 13333,
+        "age_60": 18518
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 64,
+      "max": 68
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "預算有限",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 3,
+      "avg_age": 66.7,
+      "avg_premium": 7407.33
+    }
+  },
+  {
+    "id": "PCA_INTL",
+    "name": "喜悅定期壽險 (111)",
+    "code": "INTL",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽喜悅定期壽險 (111)是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 19610,
+        "age_30": 28014,
+        "age_40": 36419,
+        "age_50": 50426,
+        "age_60": 70036
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 34,
+      "max": 47
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 13,
+      "avg_age": 42.3,
+      "avg_premium": 28014.69
+    }
+  },
+  {
+    "id": "PCA_CFVLB1",
+    "name": "誠億滿滿變額壽險",
+    "code": "CFVLB1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽誠億滿滿變額壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 77466,
+        "age_30": 110666,
+        "age_40": 143866,
+        "age_50": 199200,
+        "age_60": 276666
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 28,
+      "max": 75
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 42,
+      "avg_age": 54.1,
+      "avg_premium": 110666.67
+    }
+  },
+  {
+    "id": "PCA_ANLTLN11",
+    "name": " e 生必備定期壽險",
+    "code": "ANLTLN11",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽 e 生必備定期壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 3496,
+        "age_30": 4995,
+        "age_40": 6493,
+        "age_50": 8991,
+        "age_60": 12488
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 22,
+      "max": 68
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 124,
+      "avg_age": 41.7,
+      "avg_premium": 4995.23
+    }
+  },
+  {
+    "id": "PCA_ACLPEN35",
+    "name": "金利發終身保險 ( 定期給付型 )",
+    "code": "ACLPEN35",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽金利發終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 709738,
+        "age_30": 1013912,
+        "age_40": 1318085,
+        "age_50": 1825041,
+        "age_60": 2534780
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 23,
+      "max": 75
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 47,
+      "avg_age": 58.7,
+      "avg_premium": 1013912.21
+    }
+  },
+  {
+    "id": "PCA_ACLPEN31",
+    "name": "樂享雙收終身保險 (113)( 定期給付型 )",
+    "code": "ACLPEN31",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽樂享雙收終身保險 (113)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 74907,
+        "age_30": 107010,
+        "age_40": 139113,
+        "age_50": 192618,
+        "age_60": 267526
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 42,
+      "max": 60
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 7,
+      "avg_age": 49.7,
+      "avg_premium": 107010.43
+    }
+  },
+  {
+    "id": "PCA_ASGNLB1",
+    "name": "醫保眼福終身健康保險",
+    "code": "ASGNLB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽醫保眼福終身健康保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 18420,
+        "age_30": 26314,
+        "age_40": 34209,
+        "age_50": 47366,
+        "age_60": 65786
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 66
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 6153,
+      "avg_age": 45.8,
+      "avg_premium": 26314.69
+    }
+  },
+  {
+    "id": "PCA_ARLPLU32",
+    "name": "美耀傳家外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU32",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美耀傳家外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5383,
+        "age_30": 7690,
+        "age_40": 9997,
+        "age_50": 13842,
+        "age_60": 19225
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 849,
+      "avg_age": 42.9,
+      "avg_premium": 7690.06
+    }
+  },
+  {
+    "id": "PCA_ACLPEN37",
+    "name": "活利雙收終身保險 ( 定期給付型 )",
+    "code": "ACLPEN37",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽活利雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 56292,
+        "age_30": 80418,
+        "age_40": 104543,
+        "age_50": 144752,
+        "age_60": 201045
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 51,
+      "max": 51
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1,
+      "avg_age": 51.0,
+      "avg_premium": 80418.0
+    }
+  },
+  {
+    "id": "PCA_BCLPEN18",
+    "name": "樂利雙收終身保險 ( 定期給付型 )",
+    "code": "BCLPEN18",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽樂利雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 367525,
+        "age_30": 525036,
+        "age_40": 682546,
+        "age_50": 945065,
+        "age_60": 1312590
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3500,
+      "avg_age": 46.0,
+      "avg_premium": 525036.13
+    }
+  },
+  {
+    "id": "PCA_ARIPLU5",
+    "name": "紅運世家外幣增額終身壽險 ( 定期給付型 )",
+    "code": "ARIPLU5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽紅運世家外幣增額終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 14888,
+        "age_30": 21269,
+        "age_40": 27650,
+        "age_50": 38285,
+        "age_60": 53173
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 76
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 1500,
+      "avg_age": 52.4,
+      "avg_premium": 21269.47
+    }
+  },
+  {
+    "id": "PCA_ACLPEU14",
+    "name": "一路旺外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU14",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽一路旺外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2397,
+        "age_30": 3424,
+        "age_40": 4452,
+        "age_50": 6164,
+        "age_60": 8561
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 66
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "年輕族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3504,
+      "avg_age": 29.9,
+      "avg_premium": 3424.7
+    }
+  },
+  {
+    "id": "PCA_BRLPLN6",
+    "name": "福安滿利終身壽險 ( 定期給付型 )",
+    "code": "BRLPLN6",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽福安滿利終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 231308,
+        "age_30": 330440,
+        "age_40": 429572,
+        "age_50": 594793,
+        "age_60": 826101
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 5386,
+      "avg_age": 40.8,
+      "avg_premium": 330440.62
+    }
+  },
+  {
+    "id": "PCA_APANTB14",
+    "name": "新平安御守意外傷害保險",
+    "code": "APANTB14",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽新平安御守意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 380,
+        "age_30": 543,
+        "age_40": 706,
+        "age_50": 978,
+        "age_60": 1358
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 22,
+      "max": 61
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 28,
+      "avg_age": 39.5,
+      "avg_premium": 543.36
+    }
+  },
+  {
+    "id": "PCA_CRVLBF5",
+    "name": "新美澳雙享外幣變額壽險",
+    "code": "CRVLBF5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新美澳雙享外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 154616,
+        "age_30": 220881,
+        "age_40": 287145,
+        "age_50": 397586,
+        "age_60": 552203
+      },
+      "currency": "ZAR"
+    },
+    "age_range": {
+      "min": 34,
+      "max": 77
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "預算有限",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 59,
+      "avg_age": 63.2,
+      "avg_premium": 220881.36
+    }
+  },
+  {
+    "id": "PCA_ARDPLU7",
+    "name": "紅不讓外幣終身壽險 ( 定額給付型 )",
+    "code": "ARDPLU7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽紅不讓外幣終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 4885,
+        "age_30": 6978,
+        "age_40": 9072,
+        "age_50": 12561,
+        "age_60": 17446
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 72
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 2710,
+      "avg_age": 34.2,
+      "avg_premium": 6978.71
+    }
+  },
+  {
+    "id": "PCA_ADDNTB2",
+    "name": " e 生必備一年期重大疾病健康保險 ( 甲型 )",
+    "code": "ADDNTB2",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽 e 生必備一年期重大疾病健康保險 ( 甲型 )是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2708,
+        "age_30": 3868,
+        "age_40": 5029,
+        "age_50": 6963,
+        "age_60": 9671
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 30,
+      "max": 66
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 60,
+      "avg_age": 45.0,
+      "avg_premium": 3868.62
+    }
+  },
+  {
+    "id": "PCA_DRVLBF8",
+    "name": "三五雙享外幣變額壽險",
+    "code": "DRVLBF8",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽三五雙享外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 26282,
+        "age_30": 37546,
+        "age_40": 48810,
+        "age_50": 67584,
+        "age_60": 93866
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 18,
+      "max": 76
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 137,
+      "avg_age": 59.5,
+      "avg_premium": 37546.72
+    }
+  },
+  {
+    "id": "PCA_AFVAB1",
+    "name": "誠億滿滿變額年金保險",
+    "code": "AFVAB1",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽誠億滿滿變額年金保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 243949,
+        "age_30": 348500,
+        "age_40": 453050,
+        "age_50": 627300,
+        "age_60": 871250
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 27,
+      "max": 68
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 20,
+      "avg_age": 40.2,
+      "avg_premium": 348500.0
+    }
+  },
+  {
+    "id": "PCA_ARLPLU16",
+    "name": "愛美利外幣終身壽險  ( 定額給付型 )",
+    "code": "ARLPLU16",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽愛美利外幣終身壽險  ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1686,
+        "age_30": 2408,
+        "age_40": 3131,
+        "age_50": 4335,
+        "age_60": 6022
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 999
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 40085,
+      "avg_age": 15.1,
+      "avg_premium": 2408.81
+    }
+  },
+  {
+    "id": "PCA_AFVABF1",
+    "name": "誠億滿滿外幣變額年金保險",
+    "code": "AFVABF1",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽誠億滿滿外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2193,
+        "age_30": 3133,
+        "age_40": 4073,
+        "age_50": 5640,
+        "age_60": 7833
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 32,
+      "max": 48
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3,
+      "avg_age": 40.0,
+      "avg_premium": 3133.33
+    }
+  },
+  {
+    "id": "PCA_ARLPLU26",
+    "name": "鑫利達外幣終身壽險 ( 定額給付型 )",
+    "code": "ARLPLU26",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫利達外幣終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 3682,
+        "age_30": 5261,
+        "age_40": 6839,
+        "age_50": 9469,
+        "age_60": 13152
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 74
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 3608,
+      "avg_age": 28.3,
+      "avg_premium": 5261.05
+    }
+  },
+  {
+    "id": "PCA_ACLPEN20",
+    "name": "鑫享雙收終身保險 ( 定期給付型 )",
+    "code": "ACLPEN20",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫享雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 698250,
+        "age_30": 997501,
+        "age_40": 1296751,
+        "age_50": 1795502,
+        "age_60": 2493753
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 72
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 4577,
+      "avg_age": 49.3,
+      "avg_premium": 997501.22
+    }
+  },
+  {
+    "id": "PCA_APANTB10",
+    "name": "阿里叭叭意外傷害保險",
+    "code": "APANTB10",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽阿里叭叭意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 100,
+        "age_30": 143,
+        "age_40": 186,
+        "age_50": 258,
+        "age_60": 358
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 25,
+      "max": 59
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 50,
+      "avg_age": 45.8,
+      "avg_premium": 143.42
+    }
+  },
+  {
+    "id": "PCA_ANLPLN1",
+    "name": " e 生必備小額終身壽險",
+    "code": "ANLPLN1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽 e 生必備小額終身壽險是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 7180,
+        "age_30": 10258,
+        "age_40": 13335,
+        "age_50": 18464,
+        "age_60": 25645
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 32,
+      "max": 66
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 9,
+      "avg_age": 45.2,
+      "avg_premium": 10258.22
+    }
+  },
+  {
+    "id": "PCA_AMRNTB1",
+    "name": " e 保庇健康保險",
+    "code": "AMRNTB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽 e 保庇健康保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2548,
+        "age_30": 3640,
+        "age_40": 4732,
+        "age_50": 6552,
+        "age_60": 9101
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 23,
+      "max": 47
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "預算有限"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 33,
+      "avg_age": 39.4,
+      "avg_premium": 3640.45
+    }
+  },
+  {
+    "id": "PCA_ANLTLN10",
+    "name": " E 起健康定期壽險",
+    "code": "ANLTLN10",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "NON-PAR",
+    "description": "保誠人壽 E 起健康定期壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 4549,
+        "age_30": 6499,
+        "age_40": 8449,
+        "age_50": 11698,
+        "age_60": 16248
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 25,
+      "max": 56
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 31,
+      "avg_age": 40.9,
+      "avg_premium": 6499.35
+    }
+  },
+  {
+    "id": "PCA_ARLPLU24",
+    "name": "美利傳承外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU24",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利傳承外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 43677,
+        "age_30": 62396,
+        "age_40": 81115,
+        "age_50": 112313,
+        "age_60": 155991
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 76
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 1630,
+      "avg_age": 59.9,
+      "avg_premium": 62396.56
+    }
+  },
+  {
+    "id": "PCA_BDDNLB1",
+    "name": "安康保終身健康保險",
+    "code": "BDDNLB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽安康保終身健康保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 28635,
+        "age_30": 40907,
+        "age_40": 53179,
+        "age_50": 73632,
+        "age_60": 102268
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 27,
+      "max": 56
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 20,
+      "avg_age": 44.7,
+      "avg_premium": 40907.2
+    }
+  },
+  {
+    "id": "PCA_ACLPEN22",
+    "name": "金會旺終身保險 ( 定期給付型 )",
+    "code": "ACLPEN22",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽金會旺終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 125840,
+        "age_30": 179772,
+        "age_40": 233704,
+        "age_50": 323590,
+        "age_60": 449431
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 71
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1252,
+      "avg_age": 39.6,
+      "avg_premium": 179772.47
+    }
+  },
+  {
+    "id": "PCA_ACLPEN23",
+    "name": "享利雙收終身保險  ( 定期給付型  )",
+    "code": "ACLPEN23",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽享利雙收終身保險  ( 定期給付型  )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 611058,
+        "age_30": 872940,
+        "age_40": 1134822,
+        "age_50": 1571292,
+        "age_60": 2182350
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "中年族群"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2299,
+      "avg_age": 50.4,
+      "avg_premium": 872940.05
+    }
+  },
+  {
+    "id": "PCA_ARLPLN7",
+    "name": "樂享傳家終身壽險 ( 定期給付型 )",
+    "code": "ARLPLN7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽樂享傳家終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 511162,
+        "age_30": 730231,
+        "age_40": 949301,
+        "age_50": 1314417,
+        "age_60": 1825579
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 662,
+      "avg_age": 52.0,
+      "avg_premium": 730231.93
+    }
+  },
+  {
+    "id": "PCA_CRDPLU1",
+    "name": "傳富世代外幣終身壽險 (109)",
+    "code": "CRDPLU1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽傳富世代外幣終身壽險 (109)是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 6604,
+        "age_30": 9435,
+        "age_40": 12265,
+        "age_50": 16983,
+        "age_60": 23587
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 72
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 236,
+      "avg_age": 54.5,
+      "avg_premium": 9435.2
+    }
+  },
+  {
+    "id": "PCA_BRLPLN5",
+    "name": "鑫滿傳家終身壽險 ( 定期給付型 )",
+    "code": "BRLPLN5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫滿傳家終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 812195,
+        "age_30": 1160278,
+        "age_40": 1508362,
+        "age_50": 2088502,
+        "age_60": 2900697
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 6,
+      "max": 71
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 189,
+      "avg_age": 51.1,
+      "avg_premium": 1160278.99
+    }
+  },
+  {
+    "id": "PCA_ARLPLU35",
+    "name": "新美利 29 外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU35",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新美利 29 外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 15682,
+        "age_30": 22404,
+        "age_40": 29125,
+        "age_50": 40327,
+        "age_60": 56010
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 74
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 695,
+      "avg_age": 49.6,
+      "avg_premium": 22404.11
+    }
+  },
+  {
+    "id": "PCA_ACLPEU10",
+    "name": "創富御守外幣終身保險",
+    "code": "ACLPEU10",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽創富御守外幣終身保險是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 10619,
+        "age_30": 15170,
+        "age_40": 19722,
+        "age_50": 27307,
+        "age_60": 37927
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 73
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2469,
+      "avg_age": 42.6,
+      "avg_premium": 15170.86
+    }
+  },
+  {
+    "id": "PCA_ACLPEN16",
+    "name": "樂享雙收終身保險 ( 定期給付型 )",
+    "code": "ACLPEN16",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽樂享雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 284577,
+        "age_30": 406538,
+        "age_40": 528500,
+        "age_50": 731769,
+        "age_60": 1016346
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 408,
+      "avg_age": 45.2,
+      "avg_premium": 406538.67
+    }
+  },
+  {
+    "id": "PCA_ACLPEN21",
+    "name": "新紅運來終身保險 ( 定期給付型 )",
+    "code": "ACLPEN21",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新紅運來終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 679006,
+        "age_30": 970009,
+        "age_40": 1261012,
+        "age_50": 1746016,
+        "age_60": 2425023
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 5,
+      "max": 78
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 501,
+      "avg_age": 54.0,
+      "avg_premium": 970009.41
+    }
+  },
+  {
+    "id": "PCA_ARLPLU27",
+    "name": "美利傳富外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU27",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利傳富外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 22683,
+        "age_30": 32404,
+        "age_40": 42125,
+        "age_50": 58328,
+        "age_60": 81011
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 76
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 796,
+      "avg_age": 64.4,
+      "avg_premium": 32404.61
+    }
+  },
+  {
+    "id": "PCA_ACLPEN19",
+    "name": "鑫利發終身保險 ( 定期給付型 )",
+    "code": "ACLPEN19",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫利發終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 601215,
+        "age_30": 858878,
+        "age_40": 1116542,
+        "age_50": 1545981,
+        "age_60": 2147196
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 76
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3023,
+      "avg_age": 54.7,
+      "avg_premium": 858878.66
+    }
+  },
+  {
+    "id": "PCA_ARLPLU17",
+    "name": "美富滿利外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU17",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美富滿利外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 10927,
+        "age_30": 15611,
+        "age_40": 20294,
+        "age_50": 28100,
+        "age_60": 39028
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 76
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 1137,
+      "avg_age": 47.9,
+      "avg_premium": 15611.38
+    }
+  },
+  {
+    "id": "PCA_ASGNLB2",
+    "name": "睛元保終身健康保險",
+    "code": "ASGNLB2",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽睛元保終身健康保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 12168,
+        "age_30": 17383,
+        "age_40": 22598,
+        "age_50": 31290,
+        "age_60": 43458
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 61
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "年輕族群"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 61,
+      "avg_age": 27.0,
+      "avg_premium": 17383.54
+    }
+  },
+  {
+    "id": "PCA_ARLPLU36",
+    "name": "美護一生外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU36",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美護一生外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5598,
+        "age_30": 7997,
+        "age_40": 10397,
+        "age_50": 14396,
+        "age_60": 19994
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 6,
+      "max": 80
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 135,
+      "avg_age": 56.3,
+      "avg_premium": 7997.98
+    }
+  },
+  {
+    "id": "PCA_ARDPLN4",
+    "name": "傳鑫意終身壽險 ( 定額給付型 )",
+    "code": "ARDPLN4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽傳鑫意終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 132991,
+        "age_30": 189987,
+        "age_40": 246983,
+        "age_50": 341977,
+        "age_60": 474968
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 0,
+      "max": 999
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 131,
+      "avg_age": 49.4,
+      "avg_premium": 189987.37
+    }
+  },
+  {
+    "id": "PCA_ARDPLU9",
+    "name": "新紅運世代外幣終身壽險 ( 定期給付型 )",
+    "code": "ARDPLU9",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新紅運世代外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 9738,
+        "age_30": 13911,
+        "age_40": 18085,
+        "age_50": 25041,
+        "age_60": 34779
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 72
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 6045,
+      "avg_age": 50.1,
+      "avg_premium": 13911.83
+    }
+  },
+  {
+    "id": "PCA_ACLPEN24",
+    "name": "鑫喜雙收終身保險 ( 定期給付型 )",
+    "code": "ACLPEN24",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫喜雙收終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 229879,
+        "age_30": 328399,
+        "age_40": 426919,
+        "age_50": 591118,
+        "age_60": 820998
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 23,
+      "max": 75
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 4,
+      "avg_age": 45.2,
+      "avg_premium": 328399.25
+    }
+  },
+  {
+    "id": "PCA_ARIPLN2",
+    "name": "照扶天下終身壽險 ( 定額給付型 )",
+    "code": "ARIPLN2",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽照扶天下終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 32495,
+        "age_30": 46422,
+        "age_40": 60349,
+        "age_50": 83560,
+        "age_60": 116056
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 18,
+      "max": 57
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 23,
+      "avg_age": 37.1,
+      "avg_premium": 46422.65
+    }
+  },
+  {
+    "id": "PCA_ARLPLN6",
+    "name": "福康滿利終身壽險 ( 定期給付型 )",
+    "code": "ARLPLN6",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽福康滿利終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 236230,
+        "age_30": 337472,
+        "age_40": 438714,
+        "age_50": 607450,
+        "age_60": 843681
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 999
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 7597,
+      "avg_age": 40.7,
+      "avg_premium": 337472.72
+    }
+  },
+  {
+    "id": "PCA_ARDPLN5",
+    "name": "新紅運相傳終身壽險 ( 定期給付型 )",
+    "code": "ARDPLN5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新紅運相傳終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 872615,
+        "age_30": 1246593,
+        "age_40": 1620571,
+        "age_50": 2243868,
+        "age_60": 3116483
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 71
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 233,
+      "avg_age": 53.3,
+      "avg_premium": 1246593.39
+    }
+  },
+  {
+    "id": "PCA_BRLPLU4",
+    "name": "彩色人生外幣終身壽險 (109)",
+    "code": "BRLPLU4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽彩色人生外幣終身壽險 (109)是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1906,
+        "age_30": 2723,
+        "age_40": 3541,
+        "age_50": 4902,
+        "age_60": 6809
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 20,
+      "max": 999
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 6393,
+      "avg_age": 35.0,
+      "avg_premium": 2723.87
+    }
+  },
+  {
+    "id": "PCA_ARLPLU11",
+    "name": "滿福雙享外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU11",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽滿福雙享外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 10543,
+        "age_30": 15062,
+        "age_40": 19581,
+        "age_50": 27112,
+        "age_60": 37656
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 999
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 1586,
+      "avg_age": 51.4,
+      "avg_premium": 15062.49
+    }
+  },
+  {
+    "id": "PCA_ARLPLN4",
+    "name": "好照投終身壽險 ( 定期給付型 )",
+    "code": "ARLPLN4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽好照投終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 392937,
+        "age_30": 561338,
+        "age_40": 729740,
+        "age_50": 1010409,
+        "age_60": 1403346
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 19,
+      "max": 67
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 190,
+      "avg_age": 53.2,
+      "avg_premium": 561338.75
+    }
+  },
+  {
+    "id": "PCA_AHINTB2",
+    "name": "照護有術定期健康保險",
+    "code": "AHINTB2",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽照護有術定期健康保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5151,
+        "age_30": 7359,
+        "age_40": 9567,
+        "age_50": 13247,
+        "age_60": 18399
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 23,
+      "max": 63
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 25,
+      "avg_age": 42.2,
+      "avg_premium": 7359.84
+    }
+  },
+  {
+    "id": "PCA_ARDPLU6",
+    "name": "好運世代外幣終身壽險 ( 定期給付型 )",
+    "code": "ARDPLU6",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽好運世代外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 9079,
+        "age_30": 12970,
+        "age_40": 16861,
+        "age_50": 23347,
+        "age_60": 32426
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 72
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 201,
+      "avg_age": 47.0,
+      "avg_premium": 12970.73
+    }
+  },
+  {
+    "id": "PCA_ACLPER1",
+    "name": "民享年年人民幣終身保險 ( 定期給付型 )",
+    "code": "ACLPER1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽民享年年人民幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 41769,
+        "age_30": 59670,
+        "age_40": 77572,
+        "age_50": 107407,
+        "age_60": 149176
+      },
+      "currency": "CNY"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 71
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 109,
+      "avg_age": 53.9,
+      "avg_premium": 59670.8
+    }
+  },
+  {
+    "id": "PCA_ARLPLU31",
+    "name": "美富傳家外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU31",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美富傳家外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 8838,
+        "age_30": 12626,
+        "age_40": 16414,
+        "age_50": 22727,
+        "age_60": 31566
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 36,
+      "max": 56
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 2,
+      "avg_age": 46.0,
+      "avg_premium": 12626.5
+    }
+  },
+  {
+    "id": "PCA_ARLPLU10",
+    "name": "美利守護外幣終身壽險",
+    "code": "ARLPLU10",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利守護外幣終身壽險是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 12148,
+        "age_30": 17355,
+        "age_40": 22561,
+        "age_50": 31239,
+        "age_60": 43387
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 78
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 942,
+      "avg_age": 59.3,
+      "avg_premium": 17355.12
+    }
+  },
+  {
+    "id": "PCA_ACLPEU11",
+    "name": "一路發外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU11",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽一路發外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2173,
+        "age_30": 3104,
+        "age_40": 4035,
+        "age_50": 5588,
+        "age_60": 7761
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 67
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 4177,
+      "avg_age": 31.2,
+      "avg_premium": 3104.53
+    }
+  },
+  {
+    "id": "PCA_BCLPEU13",
+    "name": "美利 715 外幣終身保險 ( 定期給付型 )",
+    "code": "BCLPEU13",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利 715 外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 15408,
+        "age_30": 22012,
+        "age_40": 28616,
+        "age_50": 39622,
+        "age_60": 55031
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 76
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 561,
+      "avg_age": 56.1,
+      "avg_premium": 22012.66
+    }
+  },
+  {
+    "id": "PCA_ACLPEN12",
+    "name": "金正旺終身保險  ( 定期給付型 )",
+    "code": "ACLPEN12",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽金正旺終身保險  ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 79900,
+        "age_30": 114143,
+        "age_40": 148387,
+        "age_50": 205459,
+        "age_60": 285359
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 999
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2283,
+      "avg_age": 38.7,
+      "avg_premium": 114143.96
+    }
+  },
+  {
+    "id": "PCA_ARDPLN1",
+    "name": "鑫傳三代終身壽險",
+    "code": "ARDPLN1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫傳三代終身壽險是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 1079472,
+        "age_30": 1542103,
+        "age_40": 2004734,
+        "age_50": 2775786,
+        "age_60": 3855258
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 31,
+      "max": 72
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 56,
+      "avg_age": 56.7,
+      "avg_premium": 1542103.39
+    }
+  },
+  {
+    "id": "PCA_APANTB2",
+    "name": "無微不至集體投保微型傷害保險",
+    "code": "APANTB2",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽無微不至集體投保微型傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 210,
+        "age_30": 300,
+        "age_40": 390,
+        "age_50": 541,
+        "age_60": 751
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 17,
+      "max": 84
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "預算有限"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 106,
+      "avg_age": 40.2,
+      "avg_premium": 300.74
+    }
+  },
+  {
+    "id": "PCA_ARLPLU28",
+    "name": "愛美鑫外幣終身壽險 ( 定額給付型 )",
+    "code": "ARLPLU28",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽愛美鑫外幣終身壽險 ( 定額給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2142,
+        "age_30": 3060,
+        "age_40": 3978,
+        "age_50": 5509,
+        "age_60": 7651
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 68
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定額給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 347,
+      "avg_age": 21.9,
+      "avg_premium": 3060.72
+    }
+  },
+  {
+    "id": "PCA_APANTB11",
+    "name": "平安御守意外傷害保險",
+    "code": "APANTB11",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽平安御守意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 174,
+        "age_30": 249,
+        "age_40": 323,
+        "age_50": 448,
+        "age_60": 622
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 21,
+      "max": 67
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 267,
+      "avg_age": 42.2,
+      "avg_premium": 249.1
+    }
+  },
+  {
+    "id": "PCA_ARLPLU5",
+    "name": "萬事利達外幣終身壽險 (6)",
+    "code": "ARLPLU5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽萬事利達外幣終身壽險 (6)是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 3767,
+        "age_30": 5382,
+        "age_40": 6996,
+        "age_50": 9687,
+        "age_60": 13455
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 999
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 4992,
+      "avg_age": 31.8,
+      "avg_premium": 5382.01
+    }
+  },
+  {
+    "id": "PCA_ACLPEU12",
+    "name": "滿福雙盈外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU12",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽滿福雙盈外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 11922,
+        "age_30": 17031,
+        "age_40": 22140,
+        "age_50": 30656,
+        "age_60": 42578
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 999
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 564,
+      "avg_age": 47.2,
+      "avg_premium": 17031.48
+    }
+  },
+  {
+    "id": "PCA_ADDNTB1",
+    "name": " e 生必備重大疾病定期健康保險 ( 甲型 )",
+    "code": "ADDNTB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽 e 生必備重大疾病定期健康保險 ( 甲型 )是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 3812,
+        "age_30": 5446,
+        "age_40": 7080,
+        "age_50": 9804,
+        "age_60": 13617
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 34,
+      "max": 51
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 12,
+      "avg_age": 44.6,
+      "avg_premium": 5446.92
+    }
+  },
+  {
+    "id": "PCA_ARLPLU6",
+    "name": "萬事利達外幣終身壽險 (10)",
+    "code": "ARLPLU6",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽萬事利達外幣終身壽險 (10)是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 3041,
+        "age_30": 4344,
+        "age_40": 5647,
+        "age_50": 7820,
+        "age_60": 10861
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "年輕族群",
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1843,
+      "avg_age": 28.4,
+      "avg_premium": 4344.51
+    }
+  },
+  {
+    "id": "PCA_ARLPLN5",
+    "name": "鑫旺傳家終身壽險 ( 定期給付型 )",
+    "code": "ARLPLN5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫旺傳家終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 509708,
+        "age_30": 728155,
+        "age_40": 946601,
+        "age_50": 1310679,
+        "age_60": 1820388
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 71
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 190,
+      "avg_age": 51.1,
+      "avg_premium": 728155.25
+    }
+  },
+  {
+    "id": "PCA_ADMRTB2",
+    "name": "鑫滿意足定期保險",
+    "code": "ADMRTB2",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽鑫滿意足定期保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 11964,
+        "age_30": 17091,
+        "age_40": 22219,
+        "age_50": 30765,
+        "age_60": 42729
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 34,
+      "max": 46
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 4,
+      "avg_age": 41.2,
+      "avg_premium": 17091.75
+    }
+  },
+  {
+    "id": "PCA_APANTB8",
+    "name": "嗶嗶守護意外傷害保險",
+    "code": "APANTB8",
+    "company": "保誠人壽",
+    "type": "accident",
+    "category": "H&P",
+    "description": "保誠人壽嗶嗶守護意外傷害保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 97,
+        "age_30": 139,
+        "age_40": 180,
+        "age_50": 250,
+        "age_60": 347
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 21,
+      "max": 66
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 114,
+      "avg_age": 41.2,
+      "avg_premium": 139.18
+    }
+  },
+  {
+    "id": "PCA_ARIPLU4",
+    "name": "新紅運發高外幣增額終身壽險 ( 定期給付型 )",
+    "code": "ARIPLU4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽新紅運發高外幣增額終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 16390,
+        "age_30": 23415,
+        "age_40": 30439,
+        "age_50": 42147,
+        "age_60": 58538
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 69
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 54,
+      "avg_age": 42.4,
+      "avg_premium": 23415.22
+    }
+  },
+  {
+    "id": "PCA_ARLPLU15",
+    "name": "滿福世代外幣終身壽險 (6)( 定期給付型 )",
+    "code": "ARLPLU15",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽滿福世代外幣終身壽險 (6)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5765,
+        "age_30": 8236,
+        "age_40": 10706,
+        "age_50": 14824,
+        "age_60": 20590
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 72
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 4558,
+      "avg_age": 44.0,
+      "avg_premium": 8236.04
+    }
+  },
+  {
+    "id": "PCA_ARLPLU14",
+    "name": "滿福世代外幣終身壽險 (3)( 定期給付型 )",
+    "code": "ARLPLU14",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽滿福世代外幣終身壽險 (3)( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 12855,
+        "age_30": 18364,
+        "age_40": 23873,
+        "age_50": 33055,
+        "age_60": 45910
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 602,
+      "avg_age": 48.4,
+      "avg_premium": 18364.35
+    }
+  },
+  {
+    "id": "PCA_DSUBF",
+    "name": "新卓越人生外幣變額壽險",
+    "code": "DSUBF",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新卓越人生外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2703,
+        "age_30": 3862,
+        "age_40": 5021,
+        "age_50": 6952,
+        "age_60": 9656
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 34,
+      "max": 82
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "預算有限",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 27,
+      "avg_age": 72.0,
+      "avg_premium": 3862.59
+    }
+  },
+  {
+    "id": "PCA_ACLPEN13",
+    "name": "福鑫雙盈終身保險 ( 定期給付型 )",
+    "code": "ACLPEN13",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽福鑫雙盈終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 402314,
+        "age_30": 574734,
+        "age_40": 747154,
+        "age_50": 1034522,
+        "age_60": 1436836
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 72
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1288,
+      "avg_age": 45.5,
+      "avg_premium": 574734.53
+    }
+  },
+  {
+    "id": "PCA_ARLPLU20",
+    "name": "美高傳家外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU20",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美高傳家外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5702,
+        "age_30": 8145,
+        "age_40": 10589,
+        "age_50": 14662,
+        "age_60": 20364
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 71
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 49,
+      "avg_age": 46.3,
+      "avg_premium": 8145.84
+    }
+  },
+  {
+    "id": "PCA_ARLPLU13",
+    "name": "美利長紅外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU13",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利長紅外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 34527,
+        "age_30": 49325,
+        "age_40": 64123,
+        "age_50": 88786,
+        "age_60": 123314
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 77
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 1594,
+      "avg_age": 59.8,
+      "avg_premium": 49325.7
+    }
+  },
+  {
+    "id": "PCA_ARIPLU3",
+    "name": "紅運發高外幣增額終身壽險 ( 定期給付型 )",
+    "code": "ARIPLU3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽紅運發高外幣增額終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 12763,
+        "age_30": 18232,
+        "age_40": 23702,
+        "age_50": 32819,
+        "age_60": 45582
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 69
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 52,
+      "avg_age": 35.8,
+      "avg_premium": 18232.92
+    }
+  },
+  {
+    "id": "PCA_BCLPEN6",
+    "name": "三沛一生終身保險",
+    "code": "BCLPEN6",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽三沛一生終身保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 276855,
+        "age_30": 395508,
+        "age_40": 514160,
+        "age_50": 711914,
+        "age_60": 988770
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 16,
+      "max": 73
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 4747,
+      "avg_age": 49.4,
+      "avg_premium": 395508.27
+    }
+  },
+  {
+    "id": "PCA_ARDPLU5",
+    "name": "紅運世代外幣終身壽險 ( 定期給付型 )",
+    "code": "ARDPLU5",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽紅運世代外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 8322,
+        "age_30": 11889,
+        "age_40": 15456,
+        "age_50": 21401,
+        "age_60": 29723
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 999
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 7743,
+      "avg_age": 46.8,
+      "avg_premium": 11889.53
+    }
+  },
+  {
+    "id": "PCA_CCIPLR1",
+    "name": "五五民豐人民幣增額終身壽險 (109)",
+    "code": "CCIPLR1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽五五民豐人民幣增額終身壽險 (109)是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 34644,
+        "age_30": 49492,
+        "age_40": 64339,
+        "age_50": 89085,
+        "age_60": 123730
+      },
+      "currency": "CNY"
+    },
+    "age_range": {
+      "min": 17,
+      "max": 77
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 440,
+      "avg_age": 54.4,
+      "avg_premium": 49492.0
+    }
+  },
+  {
+    "id": "PCA_ACLPEN14",
+    "name": "紅運來終身保險 ( 定期給付型 )",
+    "code": "ACLPEN14",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽紅運來終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 629505,
+        "age_30": 899292,
+        "age_40": 1169080,
+        "age_50": 1618727,
+        "age_60": 2248232
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 8,
+      "max": 78
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 138,
+      "avg_age": 51.4,
+      "avg_premium": 899292.94
+    }
+  },
+  {
+    "id": "PCA_ARLPLN2",
+    "name": "福鑫世代終身壽險 ( 定期給付型 )",
+    "code": "ARLPLN2",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽福鑫世代終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 761838,
+        "age_30": 1088340,
+        "age_40": 1414843,
+        "age_50": 1959013,
+        "age_60": 2720852
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 5,
+      "max": 71
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 118,
+      "avg_age": 49.1,
+      "avg_premium": 1088340.87
+    }
+  },
+  {
+    "id": "PCA_CFVLBF2",
+    "name": "誠億滿滿外幣變額壽險",
+    "code": "CFVLBF2",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽誠億滿滿外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 7000,
+        "age_30": 10000,
+        "age_40": 13000,
+        "age_50": 18000,
+        "age_60": 25000
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 54,
+      "max": 71
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "預算有限",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3,
+      "avg_age": 64.7,
+      "avg_premium": 10000.0
+    }
+  },
+  {
+    "id": "PCA_BRVA1",
+    "name": "樂活寶島變額年金保險",
+    "code": "BRVA1",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活寶島變額年金保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 825405,
+        "age_30": 1179150,
+        "age_40": 1532895,
+        "age_50": 2122470,
+        "age_60": 2947875
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 19,
+      "max": 75
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 153,
+      "avg_age": 57.0,
+      "avg_premium": 1179150.33
+    }
+  },
+  {
+    "id": "PCA_BRVAF2",
+    "name": "樂活美金外幣變額年金保險",
+    "code": "BRVAF2",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活美金外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 48723,
+        "age_30": 69604,
+        "age_40": 90486,
+        "age_50": 125288,
+        "age_60": 174011
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 14,
+      "max": 75
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 603,
+      "avg_age": 57.4,
+      "avg_premium": 69604.64
+    }
+  },
+  {
+    "id": "PCA_ACLPEU13",
+    "name": "美利 715 外幣終身保險 ( 定期給付型 )",
+    "code": "ACLPEU13",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利 715 外幣終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 15328,
+        "age_30": 21897,
+        "age_40": 28467,
+        "age_50": 39416,
+        "age_60": 54744
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 10,
+      "max": 77
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 589,
+      "avg_age": 56.2,
+      "avg_premium": 21897.85
+    }
+  },
+  {
+    "id": "PCA_CRVLB1",
+    "name": "新三五寶島變額壽險",
+    "code": "CRVLB1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新三五寶島變額壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 576249,
+        "age_30": 823212,
+        "age_40": 1070176,
+        "age_50": 1481783,
+        "age_60": 2058032
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 22,
+      "max": 999
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "預算有限",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 526,
+      "avg_age": 64.2,
+      "avg_premium": 823212.93
+    }
+  },
+  {
+    "id": "PCA_BRDPLU3",
+    "name": "六六長紅外幣終身壽險",
+    "code": "BRDPLU3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽六六長紅外幣終身壽險是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 8163,
+        "age_30": 11662,
+        "age_40": 15160,
+        "age_50": 20991,
+        "age_60": 29155
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 1,
+      "max": 999
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2689,
+      "avg_age": 35.9,
+      "avg_premium": 11662.14
+    }
+  },
+  {
+    "id": "PCA_DCLPLN2",
+    "name": "享利人生終身壽險",
+    "code": "DCLPLN2",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽享利人生終身壽險是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 86396,
+        "age_30": 123423,
+        "age_40": 160451,
+        "age_50": 222162,
+        "age_60": 308559
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 17,
+      "max": 83
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3264,
+      "avg_age": 57.0,
+      "avg_premium": 123423.87
+    }
+  },
+  {
+    "id": "PCA_BNDTLN7",
+    "name": "新守戶幸福減額定期壽險",
+    "code": "BNDTLN7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽新守戶幸福減額定期壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5317,
+        "age_30": 7597,
+        "age_40": 9876,
+        "age_50": 13674,
+        "age_60": 18992
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 24,
+      "max": 999
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 528,
+      "avg_age": 43.2,
+      "avg_premium": 7597.09
+    }
+  },
+  {
+    "id": "PCA_BRVAF1",
+    "name": "樂活中國外幣變額年金保險",
+    "code": "BRVAF1",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活中國外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 142873,
+        "age_30": 204105,
+        "age_40": 265336,
+        "age_50": 367389,
+        "age_60": 510262
+      },
+      "currency": "CNY"
+    },
+    "age_range": {
+      "min": 43,
+      "max": 75
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 20,
+      "avg_age": 61.8,
+      "avg_premium": 204105.0
+    }
+  },
+  {
+    "id": "PCA_BRVLB4",
+    "name": "富利如山變額萬能壽險 (20)",
+    "code": "BRVLB4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽富利如山變額萬能壽險 (20)是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 29399,
+        "age_30": 42000,
+        "age_40": 54600,
+        "age_50": 75600,
+        "age_60": 105000
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 35,
+      "max": 35
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1,
+      "avg_age": 35.0,
+      "avg_premium": 42000.0
+    }
+  },
+  {
+    "id": "PCA_ECLPLU1",
+    "name": "美利人生外幣終身壽險 (109)",
+    "code": "ECLPLU1",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利人生外幣終身壽險 (109)是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 12307,
+        "age_30": 17581,
+        "age_40": 22856,
+        "age_50": 31646,
+        "age_60": 43954
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 18,
+      "max": 73
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1181,
+      "avg_age": 49.1,
+      "avg_premium": 17581.62
+    }
+  },
+  {
+    "id": "PCA_CRVLBF3",
+    "name": "新三五中國外幣變額壽險",
+    "code": "CRVLBF3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新三五中國外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 85163,
+        "age_30": 121661,
+        "age_40": 158160,
+        "age_50": 218991,
+        "age_60": 304154
+      },
+      "currency": "CNY"
+    },
+    "age_range": {
+      "min": 23,
+      "max": 77
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 162,
+      "avg_age": 61.2,
+      "avg_premium": 121661.73
+    }
+  },
+  {
+    "id": "PCA_ACLPEN11",
+    "name": "三享安康終身保險 ( 定期給付型 )",
+    "code": "ACLPEN11",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽三享安康終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 451019,
+        "age_30": 644313,
+        "age_40": 837607,
+        "age_50": 1159763,
+        "age_60": 1610783
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 72
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1464,
+      "avg_age": 48.6,
+      "avg_premium": 644313.27
+    }
+  },
+  {
+    "id": "PCA_CRDPLU2",
+    "name": "鑫傳世代外幣終身壽險 (109)",
+    "code": "CRDPLU2",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽鑫傳世代外幣終身壽險 (109)是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 17857,
+        "age_30": 25510,
+        "age_40": 33164,
+        "age_50": 45919,
+        "age_60": 63777
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 18,
+      "max": 73
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 347,
+      "avg_age": 57.0,
+      "avg_premium": 25510.92
+    }
+  },
+  {
+    "id": "PCA_BCLPEU8",
+    "name": "美利年年外幣終身保險",
+    "code": "BCLPEU8",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利年年外幣終身保險是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 14059,
+        "age_30": 20084,
+        "age_40": 26110,
+        "age_50": 36152,
+        "age_60": 50211
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 73
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 648,
+      "avg_age": 54.9,
+      "avg_premium": 20084.76
+    }
+  },
+  {
+    "id": "PCA_ACLPEN10",
+    "name": "享富樂活終身保險 ( 定期給付型 )",
+    "code": "ACLPEN10",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽享富樂活終身保險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 200936,
+        "age_30": 287051,
+        "age_40": 373167,
+        "age_50": 516693,
+        "age_60": 717629
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 71
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 192,
+      "avg_age": 42.7,
+      "avg_premium": 287051.72
+    }
+  },
+  {
+    "id": "PCA_ARDPLN3",
+    "name": "紅運相傳終身壽險 ( 定期給付型 )",
+    "code": "ARDPLN3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽紅運相傳終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 624995,
+        "age_30": 892851,
+        "age_40": 1160706,
+        "age_50": 1607132,
+        "age_60": 2232127
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 6,
+      "max": 68
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 16,
+      "avg_age": 41.1,
+      "avg_premium": 892851.12
+    }
+  },
+  {
+    "id": "PCA_BRVLB3",
+    "name": "富利如山變額萬能壽險 (10)",
+    "code": "BRVLB3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽富利如山變額萬能壽險 (10)是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 90533,
+        "age_30": 129333,
+        "age_40": 168133,
+        "age_50": 232800,
+        "age_60": 323333
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 40,
+      "max": 55
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 6,
+      "avg_age": 48.3,
+      "avg_premium": 129333.33
+    }
+  },
+  {
+    "id": "PCA_CCIPLN3",
+    "name": "五五登峰增額終身壽險 (109)",
+    "code": "CCIPLN3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽五五登峰增額終身壽險 (109)是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 203273,
+        "age_30": 290391,
+        "age_40": 377508,
+        "age_50": 522704,
+        "age_60": 725978
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 19,
+      "max": 77
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 165,
+      "avg_age": 46.1,
+      "avg_premium": 290391.33
+    }
+  },
+  {
+    "id": "PCA_ARLPLN3",
+    "name": "福鑫雙享終身壽險  ( 定期給付型 )",
+    "code": "ARLPLN3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽福鑫雙享終身壽險  ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 176583,
+        "age_30": 252261,
+        "age_40": 327939,
+        "age_50": 454070,
+        "age_60": 630653
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 71
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "終身保障",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 706,
+      "avg_age": 44.9,
+      "avg_premium": 252261.52
+    }
+  },
+  {
+    "id": "PCA_ARLPLU12",
+    "name": "美利 29 外幣終身壽險 ( 定期給付型 )",
+    "code": "ARLPLU12",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利 29 外幣終身壽險 ( 定期給付型 )是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 12283,
+        "age_30": 17547,
+        "age_40": 22812,
+        "age_50": 31586,
+        "age_60": 43869
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 72
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "定期給付",
+      "身故保障",
+      "專業理賠服務"
+    ],
+    "stats": {
+      "total_policies": 764,
+      "avg_age": 55.8,
+      "avg_premium": 17547.93
+    }
+  },
+  {
+    "id": "PCA_BCLPLN7",
+    "name": "富貴 369 終身壽險 (109)",
+    "code": "BCLPLN7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽富貴 369 終身壽險 (109)是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 652144,
+        "age_30": 931635,
+        "age_40": 1211126,
+        "age_50": 1676944,
+        "age_60": 2329089
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 27,
+      "max": 69
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 12,
+      "avg_age": 44.7,
+      "avg_premium": 931635.67
+    }
+  },
+  {
+    "id": "PCA_ARDPLN2",
+    "name": "萬事如意終身壽險",
+    "code": "ARDPLN2",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽萬事如意終身壽險是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 66246,
+        "age_30": 94637,
+        "age_40": 123028,
+        "age_50": 170347,
+        "age_60": 236594
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 75
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "高收入族群"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 132,
+      "avg_age": 35.9,
+      "avg_premium": 94637.68
+    }
+  },
+  {
+    "id": "PCA_ACLPLN9",
+    "name": "雙喜臨門終身壽險",
+    "code": "ACLPLN9",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽雙喜臨門終身壽險是一款專業設計的保險商品，提供終身保障，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 354228,
+        "age_30": 506040,
+        "age_40": 657852,
+        "age_50": 910873,
+        "age_60": 1265101
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 80
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 57,
+      "avg_age": 54.5,
+      "avg_premium": 506040.65
+    }
+  },
+  {
+    "id": "PCA_ARLPLU7",
+    "name": "一路長紅外幣終身壽險",
+    "code": "ARLPLU7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽一路長紅外幣終身壽險是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 22443,
+        "age_30": 32062,
+        "age_40": 41681,
+        "age_50": 57712,
+        "age_60": 80156
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 7,
+      "max": 77
+    },
+    "rating": 4.1,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 77,
+      "avg_age": 69.2,
+      "avg_premium": 32062.77
+    }
+  },
+  {
+    "id": "PCA_AFVLB3",
+    "name": "鑫想事成變額壽險",
+    "code": "AFVLB3",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽鑫想事成變額壽險是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 441000,
+        "age_30": 630000,
+        "age_40": 819000,
+        "age_50": 1134000,
+        "age_60": 1575000
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 35,
+      "max": 65
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 5,
+      "avg_age": 54.0,
+      "avg_premium": 630000.0
+    }
+  },
+  {
+    "id": "PCA_ADMNTB1",
+    "name": "薪享幸福定期健康保險",
+    "code": "ADMNTB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽薪享幸福定期健康保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5094,
+        "age_30": 7277,
+        "age_40": 9460,
+        "age_50": 13099,
+        "age_60": 18193
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 22,
+      "max": 58
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 79,
+      "avg_age": 40.5,
+      "avg_premium": 7277.58
+    }
+  },
+  {
+    "id": "PCA_CRVLBF7",
+    "name": "新三五歐霸外幣變額壽險",
+    "code": "CRVLBF7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽新三五歐霸外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 10966,
+        "age_30": 15666,
+        "age_40": 20366,
+        "age_50": 28200,
+        "age_60": 39166
+      },
+      "currency": "EUR"
+    },
+    "age_range": {
+      "min": 52,
+      "max": 67
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 9,
+      "avg_age": 59.3,
+      "avg_premium": 15666.67
+    }
+  },
+  {
+    "id": "PCA_BRVAF3",
+    "name": "樂享美金外幣變額年金保險",
+    "code": "BRVAF3",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂享美金外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 3500,
+        "age_30": 5000,
+        "age_40": 6500,
+        "age_50": 9000,
+        "age_60": 12500
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 58,
+      "max": 58
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1,
+      "avg_age": 58.0,
+      "avg_premium": 5000.0
+    }
+  },
+  {
+    "id": "PCA_BCLPEN7",
+    "name": "實利充沛終身保險",
+    "code": "BCLPEN7",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽實利充沛終身保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 75894,
+        "age_30": 108420,
+        "age_40": 140946,
+        "age_50": 195157,
+        "age_60": 271051
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 67
+    },
+    "rating": 4.8,
+    "suitable_for": [
+      "年輕族群"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 190,
+      "avg_age": 32.3,
+      "avg_premium": 108420.71
+    }
+  },
+  {
+    "id": "PCA_ACLPEU9",
+    "name": "福企滿滿外幣終身保險",
+    "code": "ACLPEU9",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽福企滿滿外幣終身保險是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 8990,
+        "age_30": 12843,
+        "age_40": 16696,
+        "age_50": 23117,
+        "age_60": 32107
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 3,
+      "max": 73
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3291,
+      "avg_age": 45.6,
+      "avg_premium": 12843.12
+    }
+  },
+  {
+    "id": "PCA_ARVAF2",
+    "name": "樂活美金外幣變額年金保險",
+    "code": "ARVAF2",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活美金外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 29117,
+        "age_30": 41596,
+        "age_40": 54075,
+        "age_50": 74873,
+        "age_60": 103990
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 4,
+      "max": 78
+    },
+    "rating": 4.5,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 412,
+      "avg_age": 60.7,
+      "avg_premium": 41596.36
+    }
+  },
+  {
+    "id": "PCA_ARVA1",
+    "name": "樂活寶島變額年金保險",
+    "code": "ARVA1",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活寶島變額年金保險是一款專業設計的保險商品，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 739645,
+        "age_30": 1056637,
+        "age_40": 1373628,
+        "age_50": 1901946,
+        "age_60": 2641592
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 4,
+      "max": 77
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 405,
+      "avg_age": 59.8,
+      "avg_premium": 1056637.04
+    }
+  },
+  {
+    "id": "PCA_ARVAF1",
+    "name": "樂活中國外幣變額年金保險",
+    "code": "ARVAF1",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂活中國外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 122247,
+        "age_30": 174639,
+        "age_40": 227031,
+        "age_50": 314351,
+        "age_60": 436598
+      },
+      "currency": "CNY"
+    },
+    "age_range": {
+      "min": 34,
+      "max": 77
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 43,
+      "avg_age": 58.9,
+      "avg_premium": 174639.53
+    }
+  },
+  {
+    "id": "PCA_ACLPEN9",
+    "name": "三享樂活終身保險",
+    "code": "ACLPEN9",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽三享樂活終身保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 491681,
+        "age_30": 702402,
+        "age_40": 913122,
+        "age_50": 1264324,
+        "age_60": 1756005
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 2,
+      "max": 73
+    },
+    "rating": 4.7,
+    "suitable_for": [
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3499,
+      "avg_age": 48.7,
+      "avg_premium": 702402.31
+    }
+  },
+  {
+    "id": "PCA_ARLPLU8",
+    "name": "橘享樂外幣終身壽險",
+    "code": "ARLPLU8",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽橘享樂外幣終身壽險是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 28282,
+        "age_30": 40404,
+        "age_40": 52525,
+        "age_50": 72727,
+        "age_60": 101010
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 72,
+      "max": 72
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 1,
+      "avg_age": 72.0,
+      "avg_premium": 40404.0
+    }
+  },
+  {
+    "id": "PCA_BLTRLB1",
+    "name": "長照 216 長期照顧終身健康保險",
+    "code": "BLTRLB1",
+    "company": "保誠人壽",
+    "type": "health",
+    "category": "H&P",
+    "description": "保誠人壽長照 216 長期照顧終身健康保險是一款專業設計的保險商品，提供終身保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 136286,
+        "age_30": 194695,
+        "age_40": 253103,
+        "age_50": 350451,
+        "age_60": 486737
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 40,
+      "max": 64
+    },
+    "rating": 4.6,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 3,
+      "avg_age": 51.0,
+      "avg_premium": 194695.0
+    }
+  },
+  {
+    "id": "PCA_AFVLBF4",
+    "name": "鑫想事成外幣變額壽險",
+    "code": "AFVLBF4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "LINKED",
+    "description": "保誠人壽鑫想事成外幣變額壽險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 4780,
+        "age_30": 6828,
+        "age_40": 8877,
+        "age_50": 12292,
+        "age_60": 17072
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 53,
+      "max": 76
+    },
+    "rating": 4.0,
+    "suitable_for": [
+      "中年族群",
+      "高收入族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 9,
+      "avg_age": 61.6,
+      "avg_premium": 6828.89
+    }
+  },
+  {
+    "id": "PCA_BCLPLU4",
+    "name": "美利世代外幣終身壽險 (109)",
+    "code": "BCLPLU4",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "PAR",
+    "description": "保誠人壽美利世代外幣終身壽險 (109)是一款專業設計的保險商品，提供終身保障，採用外幣計價，分散匯率風險，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 2582,
+        "age_30": 3688,
+        "age_40": 4795,
+        "age_50": 6639,
+        "age_60": 9222
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 6,
+      "max": 61
+    },
+    "rating": 4.4,
+    "suitable_for": [
+      "家庭責任重"
+    ],
+    "features": [
+      "終身保障",
+      "外幣計價",
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 9,
+      "avg_age": 45.1,
+      "avg_premium": 3688.88
+    }
+  },
+  {
+    "id": "PCA_HNTL",
+    "name": "喜悅定期壽險 (96)",
+    "code": "HNTL",
+    "company": "保誠人壽",
+    "type": "life",
+    "category": "NON-PAR",
+    "description": "保誠人壽喜悅定期壽險 (96)是一款專業設計的保險商品，提供完整的身故保障，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 10339,
+        "age_30": 14770,
+        "age_40": 19201,
+        "age_50": 26586,
+        "age_60": 36925
+      },
+      "currency": "TWD"
+    },
+    "age_range": {
+      "min": 31,
+      "max": 66
+    },
+    "rating": 4.2,
+    "suitable_for": [
+      "一般大眾"
+    ],
+    "features": [
+      "身故保障",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 2,
+      "avg_age": 48.5,
+      "avg_premium": 14770.0
+    }
+  },
+  {
+    "id": "PCA_ARVAF3",
+    "name": "樂享美金外幣變額年金保險",
+    "code": "ARVAF3",
+    "company": "保誠人壽",
+    "type": "investment",
+    "category": "LINKED",
+    "description": "保誠人壽樂享美金外幣變額年金保險是一款專業設計的保險商品，採用外幣計價，分散匯率風險，適合不同人生階段的保障需求。",
+    "premium": {
+      "monthly": {
+        "age_20": 5574,
+        "age_30": 7963,
+        "age_40": 10352,
+        "age_50": 14334,
+        "age_60": 19909
+      },
+      "currency": "USD"
+    },
+    "age_range": {
+      "min": 35,
+      "max": 74
+    },
+    "rating": 4.3,
+    "suitable_for": [
+      "中年族群",
+      "家庭責任重"
+    ],
+    "features": [
+      "外幣計價",
+      "專業理賠服務",
+      "彈性繳費方式"
+    ],
+    "stats": {
+      "total_policies": 11,
+      "avg_age": 57.0,
+      "avg_premium": 7963.64
+    }
+  }
+]

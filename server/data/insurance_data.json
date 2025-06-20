@@ -1,0 +1,97 @@
+[
+    {
+      "id": "PCA_HEA_001",
+      "name": "保誠人壽富御守護醫療終身健康保險",
+      "company": "保誠人壽",
+      "type": "health",
+      "description": "提供終身醫療保障，涵蓋住院、手術、重大疾病等多項給付。",
+      "premium": {
+        "monthly": {
+          "age_20": 2800,
+          "age_30": 3500,
+          "age_40": 5200,
+          "age_50": 7800
+        }
+      },
+      "age_range": {"min": 15, "max": 65},
+      "rating": 4.6,
+      "suitable_for": ["年輕族群", "健康意識高"],
+      "features": ["終身醫療保障", "住院日額給付最高3000元", "手術費用給付最高15萬元"]
+    },
+    {
+      "id": "PCA_LIF_002", 
+      "name": "保誠人壽美滿人生終身壽險",
+      "company": "保誠人壽",
+      "type": "life",
+      "description": "分紅型終身壽險，提供身故保障並可參與公司經營成果分配。",
+      "premium": {
+        "monthly": {
+          "age_20": 5200,
+          "age_30": 6800,
+          "age_40": 9500,
+          "age_50": 13500
+        }
+      },
+      "age_range": {"min": 18, "max": 60},
+      "rating": 4.4,
+      "suitable_for": ["家庭經濟支柱", "中年族群"],
+      "features": ["終身壽險保障", "年度分紅給付", "身故保險金給付"]
+    },
+    {
+      "id": "PCA_ACC_004",
+      "name": "保誠人壽安心意外傷害保險", 
+      "company": "保誠人壽",
+      "type": "accident",
+      "description": "專為意外傷害設計，提供意外身故、失能及醫療費用給付。",
+      "premium": {
+        "monthly": {
+          "age_20": 800,
+          "age_30": 900,
+          "age_40": 1200,
+          "age_50": 1500
+        }
+      },
+      "age_range": {"min": 15, "max": 70},
+      "rating": 4.5,
+      "suitable_for": ["職業風險高", "年輕族群", "預算有限"],
+      "features": ["意外身故給付", "意外失能給付", "24小時保障"]
+    },
+    {
+      "id": "TWL_HEA_006",
+      "name": "台灣人壽新康健住院醫療保險",
+      "company": "台灣人壽",
+      "type": "health",
+      "description": "提供住院醫療費用給付，包含病房費、手術費、雜費等。",
+      "premium": {
+        "monthly": {
+          "age_20": 2400,
+          "age_30": 3200,
+          "age_40": 4800,
+          "age_50": 7200
+        }
+      },
+      "age_range": {"min": 15, "max": 70},
+      "rating": 4.3,
+      "suitable_for": ["年輕族群", "家庭責任重"],
+      "features": ["住院日額給付", "手術費用給付", "住院前後門診"]
+    },
+    {
+      "id": "FUB_HEA_008",
+      "name": "富邦人壽醫卡健康保險",
+      "company": "富邦人壽",
+      "type": "health",
+      "description": "創新的健康保險商品，結合穿戴裝置健康管理。",
+      "premium": {
+        "monthly": {
+          "age_20": 2600,
+          "age_30": 3400,
+          "age_40": 5000,
+          "age_50": 7500
+        }
+      },
+      "age_range": {"min": 20, "max": 60},
+      "rating": 4.4,
+      "suitable_for": ["科技愛好者", "健康意識高"],
+      "features": ["智能健康管理", "運動達標保費折扣", "24小時健康諮詢"]
+    }
+  ]
